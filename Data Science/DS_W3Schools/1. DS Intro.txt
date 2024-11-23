@@ -1,0 +1,52 @@
+source: https://www.w3schools.com/datascience/ds_introduction.asp
+
+**WORD BANK**
+Data Science
+Definition: Scientific study of Data to gain knowledge and make informed decisions.
+
+Data
+Definition: Facts & Statistics collected for analysis and references
+
+Data Scientist
+Definition: A data expert who helps collect, analyze and interpret large amounts of data in order to solve complex business problems
+
+----------------------------------------------------------------------------------------
+
+**Data Science**
+Why? It is needed to find patterns to make decisions.
+Examples where Data Science is needed:
+  i.  For route planning: To discover the best routes to ship
+  ii. To foresee delays for flight/ship/train etc. (through predictive analysis)
+  iii.To create promotional offers
+  iv. To find the best suited time to deliver goods
+  v.  To forecast the next years revenue for a company
+  vi. To analyze health benefit of training
+  vii.To predict who will win elections
+
+Sectors to Apply Data Science:
+  i.  Consumer goods
+  ii. Stock markets
+  iii.Industry
+  iv. Politics
+  v.  Logistic companies
+  vi. E-commerce
+
+----------------------------------------------------------------------------------------
+
+**Data Scientist**
+Expertise: 
+  i.  Machine Learning
+  ii. Statistics
+  iii.Programming (Python or R)
+  iv. Mathematics
+  v.  Databases
+
+Steps for a Data Scientist
+  1. Identify Problem - To understand the business problem. (Ask the right questions)
+  2. Explore and Collect Data - From database, web logs, customer feedback, etc.
+  3. Extract Data - Transform the data to a standardized format.
+  4. Clean Data - Remove erroneous values from the data.
+  5. Find and replace missing values - Check for missing values and replace them with a suitable value (e.g. an average value).
+  6. Normalize Data - Scale the values in a practical range (e.g. 140 cm is smaller than 1,8 m. However, the number 140 is larger than 1,8. - so scaling is important).
+  7. Analyze data, find patterns and make future predictions.
+  8. Represent the result - Present the result with useful insights in a way the "company" can understand.

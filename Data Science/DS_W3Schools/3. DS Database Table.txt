@@ -1,0 +1,18 @@
+**Database Table**
+
+Table is not a realistic table in the real world where we put anything on top of it.
+A "Table" in the data realm is are boxes.
+
+So, a table consists of Rows and Column
+Row is the horizontal part of the table which goes from left to right or vice versa.
+Column is the vertical part of the table which goes from top to bottom or vice versa.
+
+--Variables in a Table--
+Definition: Variables are just spaces to fill in any information (data), it can change its values, cuz it's a variable that varies, geddit?
+
+So, usually we will see in a typical table, where we have a typical row and column. 
+The situation may be like Student Table. Student Table consists of Student ID and Student Name.
+Student ID in the first column, Student Name is the second column next to it.
+
+The rows will be used to store the values of the columns.
+If the class has 30 students in it, logically there would be 30 rows for all the students' name and ID.

@@ -1,0 +1,30 @@
+What is Data?
+Definition: Facts & Statistics for analysis and references, collection of information
+
+Data are divided into 2 groups;
+  i. Structured Data
+  ii.Unstructured Data
+
+Unstructured Data
+Def: Unorganised data, we need to organise it first for it to have purpose
+
+  A   B   C
+  B   A   C
+  C   B   A
+  C   A   B
+  A   C   B
+  B   C   A
+
+Structured Data
+Def: Organised data, the one that we can put to use
+
+  A   B   C
+  A   B   C
+  A   B   C
+  A   B   C
+  A   B   C
+  A   B   C
+
+Python Example:
+Array = [80, 85, 90, 95, 100, 105, 110, 115, 120, 125]
+print(Array)
