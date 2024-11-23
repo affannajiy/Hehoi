@@ -1,0 +1,27 @@
+Group Name: Tomorrow x Together (TXT)
+
+Members:
+1. Soobin
+2. Yeonjun
+3. Beomgyu
+4. Taehyun
+5. Hueningkai
+
+Member Profile:
+1. Soobin
+    Full Name: Choi Soo Bin
+    Birthday: December 5th, 2005
+2. Yeonjun
+    Full Name: Choi Yeon Jun
+    Birthday: September 13th, 1999
+3. Beomgyu
+    Full Name: Choi Beom Gyu
+    Birthday: March 13th, 2001
+4. Taehyun
+    Full Name: Kang Tae Hyun
+    Birthday: February 5th, 2002
+5. Hueningkai
+    Full Name: Kai Kamal Huening
+    Birthday: August 14th, 2002
+
+*reference: https://kprofiles.com/txt-members-profile/
